@@ -1,1 +1,2 @@
-# codebuild-for-lambda-aws-codebuild
+# codebuild-for-lambda
+This Repository contains the codes for CodeBuild project.
